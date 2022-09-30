@@ -1,0 +1,19 @@
+BOOKS
+
+---------------
+
+1. Data Modeling
+
+API
+
+BOOKS ---> 
+    GET
+    POST  + fileupload
+    PUT
+    DELETE
+
+CATEGORIES
+    GET
+    POST
+    PUT
+    DELETE
